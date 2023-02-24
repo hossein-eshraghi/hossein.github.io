@@ -1,7 +1,7 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
-</div>
-<p align="center"> My Portfolio is updating ... </p>
+<!-- <div align="center">
+  <img alt="Logo" src="https://github.com/hossein-eshraghi/hossein-eshraghi.github.io/blob/code/src/images/logo.png" width="100" />
+</div> -->
+<h3 align="center"> My Portfolio is updating ... </h3>
 <h1 align="center">
   Portfolio Website Beta Version
 </h1>
@@ -10,16 +10,17 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/hossein-eshraghi/hossein-eshraghi.github.io-v1" target="_blank">Version 1</a>
+  <a href="https://github.com/hossein-eshraghi/hossein-eshraghi.github.io-v1" target="_blank">Version Beta</a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="https://github.com/hossein-eshraghi/hossein-eshraghi.github.io/blob/code/src/images/demo.png" />
 </div>
-
+ -->
+ 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [pydevcode](https://www.twitter.com/pydevcode). Thanks!
 
 ## 🛠 Installation & Set Up
 
